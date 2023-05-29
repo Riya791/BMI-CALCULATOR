@@ -1,0 +1,49 @@
+*{
+    /* margin: 0; */
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    min-height: 100vh;
+    background-image: url("https://ncdrisc.org/img/cover-data-visualisations.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.container{
+    background-color: rgb(4, 59, 95);
+    text-align: center;
+    padding: 20px 60px 30px 40px;
+    border-radius: 10px;
+    width: 95%;
+}
+.riya
+{
+    margin-top: 40px;
+}
+.button{
+    color: #0f0606;
+    font-size: 18px;
+    border: none;
+    padding: 8px 16px 6px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  /* .button:hover{
+    background: #e8e7ea;
+  } */
+  .header{
+    text-align: center;
+    padding: auto;
+    margin-top: auto;
+    background-color: blanchedalmond;
+
+  }
